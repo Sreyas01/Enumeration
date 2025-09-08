@@ -87,7 +87,8 @@ Open terminal and try execute some kali linux commands
 
 # LINK
 
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/eed34eb3-0452-4371-aaa6-047b1d4ca585" />
+<img width="1909" height="1142" alt="image" src="https://github.com/user-attachments/assets/941df9cf-02ea-4aaf-9a4d-0f9a950a1e8a" />
+
 
 # CACHE
 

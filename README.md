@@ -82,7 +82,8 @@ Open terminal and try execute some kali linux commands
 
 # INTEXT
 
-<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/dca34c6b-b9ba-4889-8977-d14cea758881" />
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/4ade259f-17e7-4c29-8b23-89efb09fa611" />
+
 
 # LINK
 

@@ -96,7 +96,8 @@ Open terminal and try execute some kali linux commands
 
 # EXT
 
-<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/ecf411ee-d04a-44eb-9aeb-3063101824fa" />
+<img width="1815" height="1120" alt="image" src="https://github.com/user-attachments/assets/9b667c4f-d4b9-473b-a882-3ce7548e435a" />
+
 
 
 # DNS Enumeration

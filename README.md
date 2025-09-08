@@ -60,7 +60,8 @@ Open terminal and try execute some kali linux commands
 
 # SITE:
 
-<img width="1899" height="967" alt="image" src="https://github.com/user-attachments/assets/09f05aea-ded5-4189-a2db-eced6b99efcf" />
+<img width="1902" height="1093" alt="image" src="https://github.com/user-attachments/assets/c75287d4-1f3e-4e0d-beee-f6c8334b0f00" />
+
 
 # INURL:
 

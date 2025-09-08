@@ -78,7 +78,8 @@ Open terminal and try execute some kali linux commands
 
 # FILETYPE:
 
-<img width="1912" height="979" alt="image" src="https://github.com/user-attachments/assets/6b980189-dcd4-45b4-900d-bee8b09da35b" />
+<img width="1911" height="1146" alt="image" src="https://github.com/user-attachments/assets/469e6c8c-4011-41d9-95e5-3d1df9e4c468" />
+
 
 # INTEXT
 

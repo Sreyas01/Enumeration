@@ -102,8 +102,8 @@ Open terminal and try execute some kali linux commands
 
 
 # DNS Enumeration
+<img width="831" height="450" alt="image" src="https://github.com/user-attachments/assets/e7b2b5e6-65c7-4793-906e-1b8e2d12e66c" />
 
-<img width="736" height="534" alt="image" src="https://github.com/user-attachments/assets/bf43a1f9-19f3-4a90-a049-14e850f3db49" />
 
 
 ## DNS Recon

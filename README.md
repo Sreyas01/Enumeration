@@ -71,7 +71,8 @@ Open terminal and try execute some kali linux commands
 
 # INTITLE:
 
-<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/be357411-eb33-4925-9f9b-ecec410dd00b" />
+![Uploading image.png…]()
+
 
 # FILETYPE:
 

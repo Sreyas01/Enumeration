@@ -246,7 +246,8 @@ nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
 
-<img width="680" height="142" alt="image" src="https://github.com/user-attachments/assets/bf2982f5-e7bb-4537-9a7d-bc5bfed15ad2" />
+<img width="602" height="177" alt="image" src="https://github.com/user-attachments/assets/ed2f2726-cfd1-44d4-a3e5-29cdb4c54637" />
+
 
 
 ## RESULT:

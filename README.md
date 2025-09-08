@@ -154,15 +154,18 @@ Open terminal and try execute some kali linux commands
 
 # HOST
 
-<img width="750" height="447" alt="image" src="https://github.com/user-attachments/assets/67f39315-8ad0-4d37-8536-155e1731829d" />
+<img width="667" height="404" alt="image" src="https://github.com/user-attachments/assets/d6df56ec-809a-49b3-8ba5-0acefeae09e9" />
+
 
 # DNSENUM
 
-<img width="733" height="543" alt="image" src="https://github.com/user-attachments/assets/7c1e5164-50a3-4edc-b3c2-f1d8fb7342f1" />
+<img width="667" height="404" alt="image" src="https://github.com/user-attachments/assets/1b42ec82-e7b2-45aa-a721-941318005379" />
+
 
 # DNSRECON
 
-<img width="746" height="603" alt="image" src="https://github.com/user-attachments/assets/bb21a594-6fae-4950-9a29-98392372574c" />
+<img width="695" height="500" alt="image" src="https://github.com/user-attachments/assets/93178ddf-4d2d-405c-9f19-924fa71feb37" />
+
 
 # FIERCE 
 
@@ -170,7 +173,8 @@ Open terminal and try execute some kali linux commands
 
 # Harvestor
 
-<img width="739" height="705" alt="image" src="https://github.com/user-attachments/assets/f31dcc14-9a74-41ee-8ca0-b1bc96359f82" />
+<img width="615" height="325" alt="image" src="https://github.com/user-attachments/assets/57e466b5-e9f3-42eb-b954-d273576b8338" />
+
 
 ## Architecture Diagram 
 ```

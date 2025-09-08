@@ -91,8 +91,8 @@ Open terminal and try execute some kali linux commands
 
 
 # CACHE
+<img width="1901" height="1147" alt="image" src="https://github.com/user-attachments/assets/530abee5-43e1-4388-914c-535912c7c31e" />
 
-<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/67a2166e-1b49-43a9-b826-dba5f340539e" />
 
 # EXT
 

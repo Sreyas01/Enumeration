@@ -114,7 +114,8 @@ Open terminal and try execute some kali linux commands
  Perform common SRV Record Enumeration
  Top level domain expansion
 
-<img width="746" height="603" alt="image" src="https://github.com/user-attachments/assets/bb21a594-6fae-4950-9a29-98392372574c" />
+<img width="998" height="491" alt="image" src="https://github.com/user-attachments/assets/2f453201-dc39-4dd3-a9e9-a2381fa4cb45" />
+
 
 
 | Record Type | Meaning                        | Example Output                   |

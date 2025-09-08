@@ -215,7 +215,8 @@ dnsenum example.com
 
 ## Output:
 
-<img width="736" height="510" alt="image" src="https://github.com/user-attachments/assets/95163872-8224-47b5-adeb-68db81607fb4" />
+<img width="801" height="446" alt="image" src="https://github.com/user-attachments/assets/bd54bb6f-4908-4817-963d-03cfcea4f643" />
+
 
 
 
@@ -230,7 +231,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
   
  ## Output
   
-<img width="747" height="415" alt="image" src="https://github.com/user-attachments/assets/df055f43-0a50-48ec-ab9e-9e27218eef4d" />
+<img width="693" height="368" alt="image" src="https://github.com/user-attachments/assets/5d75dd42-ecc8-496c-9d7c-c9b65599edce" />
+
 
 
 ## nmap –script smtp-enum-users.nse <hostname>

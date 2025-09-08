@@ -144,11 +144,13 @@ Open terminal and try execute some kali linux commands
 
 # NSLOOKUP
 
-<img width="752" height="812" alt="image" src="https://github.com/user-attachments/assets/4d09669d-a5d7-43e9-983a-b87b395dd52f" />
+<<img width="586" height="776" alt="image" src="https://github.com/user-attachments/assets/022ae630-a356-4a42-a950-8cbce17e873a" />
+
 
 # DIG
 
-<img width="726" height="564" alt="image" src="https://github.com/user-attachments/assets/fec89592-9804-48d2-91a5-5e5636741f9b" />
+<img width="632" height="353" alt="image" src="https://github.com/user-attachments/assets/3f2024b0-1279-409b-ab81-39855c673374" />
+
 
 # HOST
 

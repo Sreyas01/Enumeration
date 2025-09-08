@@ -60,12 +60,14 @@ Open terminal and try execute some kali linux commands
 
 # SITE:
 
-<img width="1902" height="1093" alt="image" src="https://github.com/user-attachments/assets/c75287d4-1f3e-4e0d-beee-f6c8334b0f00" />
+<img width="1905" height="1140" alt="image" src="https://github.com/user-attachments/assets/dea92193-f9f9-46b2-a5c4-9d835fa6cae0" />
+
 
 
 # INURL:
 
-<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/d0a543be-43e1-41f0-af57-9311ad26eb7e" />
+<img width="1909" height="1152" alt="image" src="https://github.com/user-attachments/assets/3c2d8929-49e4-4dc0-9ad4-0c5e58b8fb3a" />
+
 
 # INTITLE:
 
